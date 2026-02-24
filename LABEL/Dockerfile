@@ -2,4 +2,4 @@ FROM almalinux:9
 LABEL COURSE="DevOps" \
       TRANER="Devi" \
       DURATION="120HRS"
-      joindevops.dockerfile.author="siva@joindevops.com"
+      com.Devi-036.author="parvathikandregula123@gmail.com"
